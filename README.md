@@ -3,8 +3,8 @@ University 3rd year project in Robotics.
 E-Delivery Robot is an Arduino based robotics project.
 In this project a robotic car will reach it's destination by itself with the help of GPS.
 It can also be controlled manually.
-For this project i used a microcontroller which is (Arduino Mega).
-With the help of robotic car, we can deliver objects from one plsce to another.
+For this project I used a microcontroller which is (Arduino Mega).
+With the help of robotic car, we can deliver objects from one place to another.
 An user will be able to deliver carriable items by this robotic car and get and send their stuff and materials to the designated location without having any manpower.
 
 Used Hardware components:
